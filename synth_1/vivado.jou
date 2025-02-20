@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sun Jun 02 11:51:22 2024
+# Process ID: 17968
+# Current directory: D:/Facultate/Year1/Sem2/Digital System Design/project/Calculator/Calculator.runs/synth_1
+# Command line: vivado.exe -log Calculator.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Calculator.tcl
+# Log file: D:/Facultate/Year1/Sem2/Digital System Design/project/Calculator/Calculator.runs/synth_1/Calculator.vds
+# Journal file: D:/Facultate/Year1/Sem2/Digital System Design/project/Calculator/Calculator.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Calculator.tcl -notrace
