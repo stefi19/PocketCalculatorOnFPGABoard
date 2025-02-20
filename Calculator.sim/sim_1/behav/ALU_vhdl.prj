@@ -1,0 +1,5 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../Calculator.srcs/sources_1/new/ALU8Bits.vhd"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,49 @@
+Unable to capture context for thread 5204 in process 18572, can not generate back trace
+Unable to capture context for thread 19032 in process 18572, can not generate back trace
+Unable to capture context for thread 7060 in process 18572, can not generate back trace
+Unable to capture context for thread 9548 in process 18572, can not generate back trace
+Unable to capture context for thread 35148 in process 18572, can not generate back trace
+Unable to capture context for thread 32064 in process 18572, can not generate back trace
+Exception at PC 0x00007FFE46CD543C
+Unable to capture context for thread 17556 in process 18572, can not generate back trace
+Unable to capture context for thread 5204 in process 18572, can not generate back trace
+Unable to capture context for thread 19032 in process 18572, can not generate back trace
+Unable to capture context for thread 7060 in process 18572, can not generate back trace
+Unable to capture context for thread 9548 in process 18572, can not generate back trace
+Unable to capture context for thread 35148 in process 18572, can not generate back trace
+Unable to capture context for thread 32064 in process 18572, can not generate back trace
+Exception at PC 0x00007FFD1319BB93
+Printing stacktrace...
+
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
+[0]  [0x00007FFD1319BB93]
+[1]  [0x00007FFD1319BB93]
+[2]  [0x00007FFD1319B4A1]
+[3]  [0x00007FFD1319B459]
+[4]  [0x00007FFD131819FE]
+[5]  [0x00007FFD13180ED1]
+[6]  [0x00007FFD13180D76]
+[7]  [0x00007FFD131279F6]
+[8]  [0x00007FFD13117AFB]
+[9]  [0x00007FFD1323E90A]
+[10]  [0x00007FFD13259F87]
+[11]  [0x00007FFD1325A05F]
+[12] (BaseThreadInitThunk+0x1d) [0x00007FFE47DF257D]
+[13] (RtlUserThreadStart+0x28) [0x00007FFE4990AA48]
+Done
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
+Exception at PC 0x00007FFE46CD543C
